@@ -2,12 +2,12 @@
 # MvpFrame
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Download](https://api.bintray.com/packages/alinlibrary/alinbanner/bannerview/images/download.svg) ](https://bintray.com/alinlibrary/alinbanner/bannerview/_latestVersion)
 
-> [MvpFrame](https://github.com/Alin520/MvpFrame)是一款是一款MVP通用框架，使用简单，有效的解决项目中的高度耦合性，使项目更有层次结构。 
+> [MvpFrame](https://github.com/Alin520/MVPFrame)是一款是一款MVP通用框架，使用简单，有效的解决项目中的高度耦合性，使项目更有层次结构。 
 
 
 ## 版本更新记录
 
-[版本更新记录](https://github.com/Alin520/MvpFrame/blob/master/CHANGELOG.md)
+[版本更新记录](https://github.com/Alin520/MVPFrame/blob/master/CHANGELOG.md)
 
 # 前序
 
@@ -186,7 +186,7 @@ public class TestCommonFragment extends CommonFragment {
  ```
 
 # 四、架构设计策略
-[架构设计策略](https://github.com/Alin520/MvpFrame/blob/master/%E8%AE%BE%E8%AE%A1%E7%AD%96%E7%95%A5.md)
+[架构设计策略](https://github.com/Alin520/MVPFrame/blob/master/%E8%AE%BE%E8%AE%A1%E7%AD%96%E7%95%A5.md)
 
 # 五、可能遇到的问题说明
 
@@ -201,11 +201,11 @@ dependencies {
 ```
 
 
-如果你觉得[MvpFrame](https://github.com/Alin520/MvpFrame) 能帮到你真正解决项目中的问题，就在博客中个我点个赞，或者去我的[MvpFrame](https://github.com/Alin520/MvpFrame)中star。
+如果你觉得[MvpFrame](https://github.com/Alin520/MVPFrame) 能帮到你真正解决项目中的问题，就在博客中个我点个赞，或者去我的[MvpFrame](https://github.com/Alin520/MVPFrame)中star。
 如果项目中有问题，可以直接给我留言。 </br>  
 
 # 联系方式</br>
-      github地址：https://github.com/Alin520/MvpFrame。
+      github地址：https://github.com/Alin520/MVPFrame。
       掘金地址：https://juejin.im/post/5a7941c96fb9a0633f0dfe64
       CSDN地址：http://blog.csdn.net/hailin123123
       联系方式:
