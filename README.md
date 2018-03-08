@@ -1,7 +1,6 @@
 
 # MvpFrame
-[![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Download](https://api.bintray.com/packages/alinlibrary/alinbanner/bannerview/images/download.svg) ](https://bintray.com/alinlibrary/alinbanner/bannerview/_latestVersion)
-
+[![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0) [ ![Download](https://api.bintray.com/packages/alinlibrary/AlinMaven/mvpframe/images/download.svg) ](https://bintray.com/alinlibrary/AlinMaven/mvpframe/_latestVersion)
 > [MvpFrame](https://github.com/Alin520/MVPFrame)是一款是一款MVP通用框架，使用简单，有效的解决项目中的高度耦合性，使项目更有层次结构。 
 
 
@@ -26,7 +25,8 @@
 
 ```
 dependencies {
-   implementation 'com.alin:common-library:1.0.2'
+   implementation 'com.alin:mvpframe:1.0.2'
+   implementation 'com.alin:common-library:1.0.1'
 }
     
 ```
@@ -194,8 +194,8 @@ public class TestCommonFragment extends CommonFragment {
 解决方式：请[点击查看CommonLibrary](https://github.com/Alin520/CommonLibrary),使用最新版本。</br>
 ```
 dependencies {
-   
-   implementation 'com.alin:common-library:1.0.2'
+   implementation 'com.alin:mvpframe:1.0.2'
+   implementation 'com.alin:common-library:1.0.1'
 }
     
 ```
